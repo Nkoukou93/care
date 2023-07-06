@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: turquoise;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    top: 30px;
+}
+.button{
+    background-color: turquoise;
+    position: center;
+}
+.div{
+    background-image: url(img/slide-2.jpg);
+}
+.h2{
+    display: flex;
+}
+.icon{
+    display: flex;
+    justify-content: space-around;
+}
+.div1{
+    background-color: turquoise;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.button1{
+    text-align: center;
+}
+.p2{
+    display: flex;
+   justify-content: space-between;
+}
+.p3{
+    display: flex;
+    justify-content: space-between;
+}
+.p4{
+    display: grid;
+}
+
